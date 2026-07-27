@@ -52,7 +52,7 @@ Demeterio_NotebookInjector_PLAYER_vX.zip
 The installation method and current compatibility information are included inside the ZIP.
 
 **Highly recommended:** for receiving mod update notifications, download and install Mod Update Checker by Demeterio.
-Find it here: https://github.com/Demeterio/ModUpdateChecker/releases/latest
+Find it here: https://github.com/Demeterio/Mod-Update-Checker/releases/latest
 
 ### Mod creators
 
@@ -79,7 +79,7 @@ Demeterio_NotebookInjector_MODDER_vX.zip
 The MODDER ZIP contains the same runtime files as the PLAYER ZIP, plus the complete modder guide and some examples.
 
 **Highly recommended:** for receiving mod update notifications, download and install Mod Update Checker by Demeterio.
-Find it here: https://github.com/Demeterio/ModUpdateChecker/releases/latest
+Find it here: https://github.com/Demeterio/Mod-Update-Checker/releases/latest
 
 Do not bundle the core files inside your mod archive. Direct players to the official Mod The Sims,
 SimFileShare or GitHub download page.
