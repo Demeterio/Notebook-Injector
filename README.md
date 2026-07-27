@@ -90,6 +90,30 @@ Use the **MODDER ZIP** when creating a Notebook Injector integration for another
 
 See Installation.txt in the ZIP.
 
+## Compatibility
+
+See the compatibility file included with each release for the current tested information and mods.
+
+## For mod creators
+
+[Documentation is here! Click me!](docs/Demeterio_NotebookInjector_Modder_Guide.pdf)
+
+A compatible mod provides tuning resources that declare its notebook content through NI.
+
+A creator can:
+
+* create a custom category;
+* add a custom subcategory to a custom or existing category;
+* assign entries to a custom or existing subcategory;
+* configure icons, names, descriptions, tooltips, sorting, and entry limits;
+* use supported EA notebook formats;
+* use specialized NI entry kinds;
+* declare the minimum NI Core ABI required by the integration.
+
+Use the latest **MODDER ZIP** and follow its PDF guide. The guide and template packages are versioned with the corresponding NI release.
+
+Players must install the current Notebook Injector core separately. Do not bundle or redistribute the Core with another mod.
+
 ## Commands
 
 Open the cheat console with `Ctrl` + `Shift` + `C`.
@@ -129,28 +153,6 @@ demeterio.ni_getenums
 ```
 
 The standard log records commands, warnings, errors, and basic startup information. An optional Debuglog package is available for more detailed development diagnostics.
-
-## Compatibility
-
-See the compatibility file included with each release for the current tested information and mods.
-
-## For mod creators
-
-A compatible mod provides tuning resources that declare its notebook content through NI.
-
-A creator can:
-
-* create a custom category;
-* add a custom subcategory to a custom or existing category;
-* assign entries to a custom or existing subcategory;
-* configure icons, names, descriptions, tooltips, sorting, and entry limits;
-* use supported EA notebook formats;
-* use specialized NI entry kinds;
-* declare the minimum NI Core ABI required by the integration.
-
-Use the latest **MODDER ZIP** and follow its PDF guide. The guide and template packages are versioned with the corresponding NI release.
-
-Players must install the current Notebook Injector core separately. Do not bundle or redistribute the Core with another mod.
 
 ## Public source code and release policy
 
