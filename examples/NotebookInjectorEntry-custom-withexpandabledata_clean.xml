@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="NotebookInjectorEntry" i="notebook_entry" m="notebook_injector.entry"
+   n=""
+   s="">
+  <E n="entry_kind">CUSTOM</E>
+  <T n="entry_text">0x</T>
+  <T n="entry_text_description">0x</T>
+  <T n="entry_icon">2F7D0004:00000000:</T>
+  <U n="content">
+    <T n="title">0x</T>
+    <L n="text_blocks">
+      <T>0x</T>
+      <T>0x</T>
+    </L>
+    <T n="ingredients_title">0x</T>
+    <T n="display_ingredient_counts"></T>
+    <L n="ingredients">
+      <U>
+        <T n="object_definition"></T>
+        <T n="required_count"></T>
+      </U>
+    </L>
+    <T n="footer">0x</T>
+  </U>
+</I>

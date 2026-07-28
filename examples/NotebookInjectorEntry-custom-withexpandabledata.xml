@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="NotebookInjectorEntry" i="notebook_entry" m="notebook_injector.entry"
+   n="ModderName:NotebookInjector_ModName_Category_Subcategory_Entry_XX"
+   s="YOUR_NOTEBOOK_ENTRY_DECIMAL_ID">
+  <E n="entry_kind">CUSTOM</E> <!-- CEX-01 -->
+  <T n="entry_text">0x00000000</T> <!-- CEX-02 -->
+  <T n="entry_text_description">0x00000000</T> <!-- CEX-03 -->
+  <T n="entry_icon">2F7D0004:00000000:0000000000000000</T> <!-- CEX-04 -->
+  <U n="content"> <!-- CEX-05 -->
+    <T n="title">0x00000000</T> <!-- CNT-01 -->
+    <L n="text_blocks"> <!-- CNT-02 -->
+      <T>0x00000000</T>
+      <T>0x00000000</T>
+    </L>
+    <T n="ingredients_title">0x00000000</T> <!-- CNT-03 -->
+    <T n="display_ingredient_counts">True</T> <!-- CNT-04 -->
+    <L n="ingredients"> <!-- CNT-05 -->
+      <U>
+        <T n="object_definition">OBJECT_DEFINITION_DECIMAL_ID</T>
+        <T n="required_count">2</T>
+      </U>
+    </L>
+    <T n="footer">0x00000000</T> <!-- CNT-06 -->
+  </U>
+</I>

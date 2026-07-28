@@ -1,0 +1,10 @@
+  <U n="custom_tooltip">
+    <T n="header">0x00000000</T> <!-- CTT-01 -->
+    <T n="title">0x00000000</T> <!-- CTT-02 -->
+    <T n="subtitle">0x00000000</T> <!-- CTT-03 -->
+    <T n="accent_primary">0x00000000</T> <!-- CTT-04 -->
+    <T n="accent_secondary">0x00000000</T> <!-- CTT-05 -->
+    <T n="accent_tertiary">0x00000000</T> <!-- CTT-06 -->
+    <T n="subtext">0x00000000</T> <!-- CTT-07 -->
+    <T n="footer">0x00000000</T> <!-- CTT-08 -->
+  </U>

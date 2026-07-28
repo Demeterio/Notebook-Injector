@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="NotebookInjectorEntryAssignment" i="snippet" m="notebook_injector.data"
+   n="ModderName:NotebookInjector_ModName_CategoryName_SubcategoryName_Assignment"
+   s="YOUR_ASSIGNMENT_SNIPPET_DECIMAL_ID">
+  <T n="min_version">1</T> <!-- ASN-01 -->
+  <V n="subcategory_target" t="custom_subcategory"> <!-- ASN-02 -->
+    <U n="custom_subcategory">
+      <T n="custom_subcategory_key">ModderNameModNameCategoryNameSubcategoryName</T>
+    </U>
+  </V>
+  <L n="entries"> <!-- ASN-03: decimal Notebook Entry tuning IDs -->
+    <T>YOUR_NOTEBOOK_ENTRY_DECIMAL_ID_1</T>
+    <T>YOUR_NOTEBOOK_ENTRY_DECIMAL_ID_2</T>
+  </L>
+</I>

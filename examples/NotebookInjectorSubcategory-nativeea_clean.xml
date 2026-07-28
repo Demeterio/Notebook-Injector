@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="NotebookInjectorSubcategory" i="snippet" m="notebook_injector.data"
+   n=""
+   s="">
+  <T n="min_version"></T>
+  <V n="category_target" t="existing_category">
+    <U n="existing_category">
+      <E n="existing_category"></E>
+    </U>
+  </V>
+  <T n="subcategory_key"></T>
+  <T n="subcategory_name">0x</T>
+  <T n="subcategory_tooltip">0x</T>
+  <T n="subcategory_icon">2F7D0004:00000000:</T>
+  <U n="list_texts">
+    <T n="has_list_text">0x</T>
+    <T n="no_list_text">0x</T>
+  </U>
+  <E n="format_type"></E>
+  <T n="show_max_entries"></T>
+  <U n="is_sortable">
+    <T n="enabled"></T>
+    <T n="include_new_entry"></T>
+  </U>
+</I>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="NotebookInjectorEntryAssignment" i="snippet" m="notebook_injector.data"
+   n=""
+   s="">
+  <T n="min_version"></T>
+  <V n="subcategory_target" t="custom_subcategory">
+    <U n="custom_subcategory">
+      <T n="custom_subcategory_key"></T>
+    </U>
+  </V>
+  <L n="entries">
+    <T></T>
+  </L>
+</I>

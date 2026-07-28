@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="NotebookInjectorSubcategory" i="snippet" m="notebook_injector.data"
+   n="ModderName:NotebookInjector_ModName_CategoryName_SubcategoryName"
+   s="YOUR_SUBCATEGORY_SNIPPET_DECIMAL_ID">
+  <T n="min_version">1</T> <!-- SUB-01 -->
+  <V n="category_target" t="custom_category"> <!-- SUB-02 -->
+    <U n="custom_category">
+      <T n="custom_category_key">ModderNameModNameCategoryName</T>
+    </U>
+  </V>
+  <T n="subcategory_key">ModderNameModNameCategoryNameSubcategoryName</T> <!-- SUB-03 -->
+  <T n="subcategory_name">0x00000000</T> <!-- SUB-04 -->
+  <T n="subcategory_tooltip">0x00000000</T> <!-- SUB-05 -->
+  <T n="subcategory_icon">2F7D0004:00000000:0000000000000000</T> <!-- SUB-06 -->
+  <U n="list_texts">
+    <T n="has_list_text">0x00000000</T> <!-- SUB-07 -->
+    <T n="no_list_text">0x00000000</T> <!-- SUB-08 -->
+  </U>
+  <E n="format_type">EXPANDABLE_DATA</E> <!-- SUB-09 -->
+  <T n="show_max_entries">0</T> <!-- SUB-10 -->
+  <U n="is_sortable">
+    <T n="enabled">False</T> <!-- SUB-11 -->
+    <T n="include_new_entry">False</T> <!-- SUB-12 -->
+  </U>
+</I>

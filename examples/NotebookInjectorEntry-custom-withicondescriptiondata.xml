@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="NotebookInjectorEntry" i="notebook_entry" m="notebook_injector.entry"
+   n="ModderName:NotebookInjector_ModName_Category_Subcategory_Entry_XX"
+   s="YOUR_NOTEBOOK_ENTRY_DECIMAL_ID">
+  <E n="entry_kind">CUSTOM</E> <!-- CID-01 -->
+  <T n="entry_text">0x00000000</T> <!-- CID-02 -->
+  <T n="entry_icon">2F7D0004:00000000:0000000000000000</T> <!-- CID-03 -->
+  <U n="custom_tooltip"> <!-- CID-04 -->
+    <T n="title">0x00000000</T>
+    <T n="subtext">0x00000000</T>
+  </U>
+</I>

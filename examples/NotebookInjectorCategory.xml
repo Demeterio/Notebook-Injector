@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="NotebookInjectorCategory" i="snippet" m="notebook_injector.data"
+   n="ModderName:NotebookInjector_ModName_CategoryName"
+   s="YOUR_CATEGORY_SNIPPET_DECIMAL_ID">
+  <T n="min_version">1</T> <!-- CAT-01 -->
+  <T n="category_key">ModderNameModNameCategoryName</T> <!-- CAT-02 -->
+  <T n="category_name">0x00000000</T> <!-- CAT-03 -->
+  <T n="category_description">0x00000000</T> <!-- CAT-04 -->
+  <T n="category_icon">2F7D0004:00000000:0000000000000000</T> <!-- CAT-05 -->
+  <T n="category_large_icon">2F7D0004:00000000:0000000000000000</T> <!-- CAT-06 -->
+  <T n="display_subcategory_title">True</T> <!-- CAT-07 -->
+</I>

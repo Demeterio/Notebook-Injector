@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot"
+   n="ModderName:NotebookInjector_ModName_Unlock_NotebookEntry"
+   s="YOUR_LOOT_ACTION_DECIMAL_ID">
+  <L n="loot_actions">
+    <V t="notebook_entry">
+      <U n="notebook_entry">
+        <V n="notebook_entry" t="create_new_entry">
+          <U n="create_new_entry">
+            <T n="notebook_entry">YOUR_NOTEBOOK_ENTRY_DECIMAL_ID</T>
+          </U>
+        </V>
+        <U n="notifications">
+          <V n="unlocked_failed_notification" t="disabled"/>
+          <V n="unlocked_success_notification" t="disabled"/>
+        </U>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  </L>
+</I>
